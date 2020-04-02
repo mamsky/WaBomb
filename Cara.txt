@@ -1,0 +1,4 @@
+P-Wabomb = menggunakan python biasa
+P3-WaBomb = Menggunakan python 3
+
+insyaallah sukses ngeganggu orang
